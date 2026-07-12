@@ -17,7 +17,7 @@
 - 🌱 Currently learning advanced Backend Development
 - 🚀 Interested in scalable web applications
 - 🧩 Strong foundation in Data Structures & Algorithms
-- 📍 India
+- 📍 Bangalore India
 - 📫 Reach me at **sagararora200000@gmail.com**
 
 ---
