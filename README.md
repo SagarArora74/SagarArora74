@@ -108,7 +108,6 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=SagarArora74&style=for-the-badge)
 
 </p>
 
