@@ -10,19 +10,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning advanced Backend Development
-- 🚀 Interested in scalable web applications
-- 🧩 Strong foundation in Data Structures & Algorithms
+-  B.E. in Electronics & Communication Engineering
+-  Passionate about Full Stack Development
+-  Currently learning advanced Backend Development
+-  Interested in scalable web applications
+-  Strong foundation in Data Structures & Algorithms
 - 📍 Bangalore India
-- 📫 Reach me at **sagararora200000@gmail.com**
+-  Reach me at **sagararora200000@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -58,7 +58,26 @@
 
 # 📌 Featured Projects
 
-### 📚 Book Review Platform
+### AI Personal Trainer
+
+An AI-powered fitness application that provides personalized workout and nutrition recommendations based on user fitness profiles and goals.
+
+Technologies: React, Node.js, Express.js, MongoDB, Google Gemini API
+
+**[Live Demo](https://mai-personal-trainer.vercel.app/)**
+
+Key Features:
+
+Personalized workout recommendations
+AI-generated nutrition plans
+User fitness profile management
+REST API-based backend
+MongoDB database integration
+AI-powered recommendations using Google Gemini
+
+---
+
+###  Book Review Platform
 
 - React + Vite
 - Node.js + Express
@@ -68,7 +87,7 @@
 
 ---
 
-### 📸 InstaClone Backend
+###  InstaClone Backend
 
 - Node.js
 - Express.js
@@ -79,7 +98,7 @@
 
 ---
 
-### 🚗 Smart Parking System
+###  Smart Parking System
 
 - Arduino
 - IR Sensors
