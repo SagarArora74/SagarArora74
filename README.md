@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sagar Arora 👋
+# Hi there, I'm Sagar 👋
 
 ### Full Stack Developer | Electronics & Communication Engineer
 
